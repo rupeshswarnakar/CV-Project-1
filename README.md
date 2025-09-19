@@ -1,2 +1,1 @@
-<img width="512" height="512" alt="Lenna_img" src="https://github.com/user-attachments/assets/c14b0d8b-1d4a-4962-9422-e7b108019b4e" />
-
+<img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/09342fde-55e9-4873-b5f7-37407585234e" />
